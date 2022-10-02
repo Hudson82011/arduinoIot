@@ -1,0 +1,7 @@
+Componente utilizados:
+
+-Arduino UNO.
+-3 led.
+-protoboard para organização.
+-sensor de umidade do solo.
+-3 resistores de 1k.
